@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/TextUtils-React/static/css/main.2b7082e8.css",
-    "main.js": "/TextUtils-React/static/js/main.a956a548.js",
-    "static/js/787.719ec76d.chunk.js": "/TextUtils-React/static/js/787.719ec76d.chunk.js",
-    "index.html": "/TextUtils-React/index.html",
-    "main.2b7082e8.css.map": "/TextUtils-React/static/css/main.2b7082e8.css.map",
-    "main.a956a548.js.map": "/TextUtils-React/static/js/main.a956a548.js.map",
-    "787.719ec76d.chunk.js.map": "/TextUtils-React/static/js/787.719ec76d.chunk.js.map"
+    "main.css": "/surajsurkutla/TextUtils-React/static/css/main.2b7082e8.css",
+    "main.js": "/surajsurkutla/TextUtils-React/static/js/main.628bb804.js",
+    "static/js/787.719ec76d.chunk.js": "/surajsurkutla/TextUtils-React/static/js/787.719ec76d.chunk.js",
+    "index.html": "/surajsurkutla/TextUtils-React/index.html",
+    "main.2b7082e8.css.map": "/surajsurkutla/TextUtils-React/static/css/main.2b7082e8.css.map",
+    "main.628bb804.js.map": "/surajsurkutla/TextUtils-React/static/js/main.628bb804.js.map",
+    "787.719ec76d.chunk.js.map": "/surajsurkutla/TextUtils-React/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2b7082e8.css",
-    "static/js/main.a956a548.js"
+    "static/js/main.628bb804.js"
   ]
 }
